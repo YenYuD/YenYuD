@@ -1,16 +1,47 @@
-## Hi there 👋
+# 🌟 Hey, I'm Emily! 🌟
 
-<!--
-**YenYuD/YenYuD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 **Front-End Developer | React | TypeScript | Next.js Enthusiast**  
+🌍 Currently based in **Taiwan** | 🇹🇼
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- **Languages:** JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
+- **Tools:** VS Code, Git, Figma, Strapi
+
+### 🌱 Currently Learning
+
+- 🚀 Advanced TypeScript
+- 🧩 Building custom dashboards with Strapi
+- 🎨 Github actions and deployment
+
+### 🚀 My Journey
+
+- 1.5+ years of React & TypeScript experience
+- Recently exploring **Strapi** for content management
+- Learning how to deploy apps with **cost-effective solutions**
+
+### ✨ Fun Facts
+
+- 💃 Beginner at **Hip-Hop Dancing**
+- 🌄 Survived a hike on **Mount Fuji** during a storm
+- 🏃‍♂️ Striving for that balance between code and cardio
+
+### 📈 Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YenYuD&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YenYuD&layout=compact&theme=radical)
+
+### 📫 How to Reach Me
+
+- **LinkedIn:** [my LinkedIn](https://www.linkedin.com/in/emily-diao-89aab22a9/)
+- **Email:** [diaoemily0830@gmail.com](diaoemily0830@gmail.com)
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – _Cory House_
+
+✨ **Let’s build something awesome together!** ✨
+
