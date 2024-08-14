@@ -36,7 +36,7 @@
 
 ### 📫 How to Reach Me
 
-- **LinkedIn:** [my LinkedIn](https://www.linkedin.com/in/emily-diao-89aab22a9/)
+- **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/emily-diao-89aab22a9/)
 - **Email:** [diaoemily0830@gmail.com](diaoemily0830@gmail.com)
 
 ---
