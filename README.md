@@ -1,7 +1,7 @@
 # 🌟 Hey, I'm Emily! 🌟
 
 🎨 **Front-End Developer | React | TypeScript | Next.js Enthusiast**  
-🌍 Currently based in **Taiwan** | 🇹🇼
+🌍 Currently based in **Taipei,Taiwan** | 🇹🇼
 
 ---
 
