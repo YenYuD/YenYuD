@@ -3,6 +3,8 @@
 🎨 **Front-End Developer | React | TypeScript | Next.js Enthusiast**  
 🌍 Currently based in **Taipei,Taiwan** | 🇹🇼
 
+[https://dev.emilydiao.blog](https://dev.emilydiao.blog)
+
 ---
 
 ### 💻 Tech Stack
