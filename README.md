@@ -8,13 +8,13 @@
 ### 💻 Tech Stack
 
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3
-- **Frameworks & Libraries:** React, Next.js, Tailwind CSS
-- **Tools:** VS Code, Git, Figma, Strapi
+- **Frameworks & Libraries:** React, Next.js, Tailwind CSS, React-query, MUI
+- **Tools:** Git, Figma, Strapi
 
 ### 🌱 Currently Learning
 
 - 🚀 Advanced TypeScript
-- 🧩 Building custom dashboards with Strapi
+- 🧩 Building a personal blog with Strapi CMS
 - 🎨 Github actions and deployment
 
 ### 🚀 My Journey
