@@ -1,7 +1,7 @@
 # 🌟 Hey, I'm Emily! 🌟
 
 🎨 **Front-End Developer | React | TypeScript | Next.js Enthusiast**  
-🌍 Currently based in **Taipei,Taiwan** | 🇹🇼
+🌍 Currently based in **Taipei, Taiwan** and currently seeking for opportunities in Canada! | 🇹🇼 🇨🇦
 
 [https://dev.emilydiao.blog](https://dev.emilydiao.blog)
 
@@ -11,7 +11,7 @@
 
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** React, Next.js, Tailwind CSS, React-query, MUI
-- **Tools:** Git, Figma, Strapi
+- **Tools:** Git, Docker, Figma, Strapi
 
 ### 🌱 Currently Learning
 
@@ -21,7 +21,7 @@
 
 ### 🚀 My Journey
 
-- 1.5+ years of React & TypeScript experience
+- 2+ years of React & TypeScript experience
 - Recently exploring **Strapi** for content management
 - Learning how to deploy apps with **cost-effective solutions**
 
@@ -39,7 +39,7 @@
 ### 📫 How to Reach Me
 
 - **LinkedIn:** [My LinkedIn](https://www.linkedin.com/in/emily-diao-89aab22a9/)
-- **Email:** [diaoemily0830@gmail.com](diaoemily0830@gmail.com)
+- **Email:** [diaoemily0830@gmail.com](diaoemily135@gmail.com)
 
 ---
 
