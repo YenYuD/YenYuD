@@ -1,7 +1,6 @@
 # 🌟 Hey, I'm Emily! 🌟
 
 🎨 **Front-End Developer | React | TypeScript | Next.js Enthusiast**  
-🌍 Seeking opportunities in Canada! | 🇹🇼 🇨🇦
 
 [https://dev.emilydiao.blog](https://dev.emilydiao.blog)
 
